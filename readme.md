@@ -1,0 +1,1 @@
+creating example for [adjust hostContext in Bundle for conformsTo](https://github.com/hapifhir/org.hl7.fhir.core/pull/676)
